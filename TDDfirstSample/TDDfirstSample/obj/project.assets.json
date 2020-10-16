@@ -3470,23 +3470,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\naka999\\.nuget\\packages\\": {},
+    "C:\\Users\\l\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TestRepos\\TDDSample\\TDDSample\\TDDfirstSample\\TDDfirstSample\\TDDfirstSample.csproj",
+      "projectUniqueName": "C:\\TestRepos\\TDDSample\\TDDfirstSample\\TDDfirstSample\\TDDfirstSample.csproj",
       "projectName": "TDDfirstSample",
-      "projectPath": "C:\\TestRepos\\TDDSample\\TDDSample\\TDDfirstSample\\TDDfirstSample\\TDDfirstSample.csproj",
-      "packagesPath": "C:\\Users\\naka999\\.nuget\\packages\\",
-      "outputPath": "C:\\TestRepos\\TDDSample\\TDDSample\\TDDfirstSample\\TDDfirstSample\\obj\\",
+      "projectPath": "C:\\TestRepos\\TDDSample\\TDDfirstSample\\TDDfirstSample\\TDDfirstSample.csproj",
+      "packagesPath": "C:\\Users\\l\\.nuget\\packages\\",
+      "outputPath": "C:\\TestRepos\\TDDSample\\TDDfirstSample\\TDDfirstSample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\naka999\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\l\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3542,7 +3542,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

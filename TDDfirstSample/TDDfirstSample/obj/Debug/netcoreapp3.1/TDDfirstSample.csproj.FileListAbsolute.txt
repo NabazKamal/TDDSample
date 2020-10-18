@@ -189,3 +189,5 @@ C:\TestRepos\TDDSample\TDDfirstSample\TDDfirstSample\bin\Debug\netcoreapp3.1\zh-
 C:\TestRepos\TDDSample\TDDfirstSample\TDDfirstSample\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 C:\TestRepos\TDDSample\TDDfirstSample\TDDfirstSample\obj\Debug\netcoreapp3.1\TDDfirstSample.csproj.CopyComplete
 C:\TestRepos\TDDSample\TDDfirstSample\TDDfirstSample\obj\Debug\netcoreapp3.1\TDDfirstSample.genruntimeconfig.cache
+C:\TestRepos\TDDSample\TDDfirstSample\TDDfirstSample\bin\Debug\netcoreapp3.1\TDDfirstLib.dll
+C:\TestRepos\TDDSample\TDDfirstSample\TDDfirstSample\bin\Debug\netcoreapp3.1\TDDfirstLib.pdb

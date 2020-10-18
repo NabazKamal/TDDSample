@@ -1,0 +1,7 @@
+C:\TestRepos\TDDSample\TDDfirstSample\TDDfirstLib\obj\Debug\netcoreapp3.1\TDDfirstLib.AssemblyInfoInputs.cache
+C:\TestRepos\TDDSample\TDDfirstSample\TDDfirstLib\obj\Debug\netcoreapp3.1\TDDfirstLib.AssemblyInfo.cs
+C:\TestRepos\TDDSample\TDDfirstSample\TDDfirstLib\bin\Debug\netcoreapp3.1\TDDfirstLib.deps.json
+C:\TestRepos\TDDSample\TDDfirstSample\TDDfirstLib\bin\Debug\netcoreapp3.1\TDDfirstLib.dll
+C:\TestRepos\TDDSample\TDDfirstSample\TDDfirstLib\bin\Debug\netcoreapp3.1\TDDfirstLib.pdb
+C:\TestRepos\TDDSample\TDDfirstSample\TDDfirstLib\obj\Debug\netcoreapp3.1\TDDfirstLib.dll
+C:\TestRepos\TDDSample\TDDfirstSample\TDDfirstLib\obj\Debug\netcoreapp3.1\TDDfirstLib.pdb
